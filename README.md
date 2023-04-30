@@ -122,7 +122,7 @@
     prcp_plot.set_ylabel("Inches")
     prcp_plot.set_xlabel("Date (Year-Month)")
     prcp_plot.grid()
-    plt.savefig("Images/precipitation_bar.png")
+    plt.savefig("Images/precipitation.png")
     plt.show()
 ```
 ![precipitation](SurfsUp/Images/precipitation.png)
@@ -190,7 +190,7 @@
     plt.title("Temperature for Station USC00519281")
     plt.xlabel("Temperature")
     plt.ylabel("Observation Frequency")
-    plt.savefig("Images/histogram_tobs.png")
+    plt.savefig("Images/histogram.png")
     plt.show()
 ```
 ![histogram](SurfsUp/Images/histogram.png)
