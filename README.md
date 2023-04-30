@@ -125,7 +125,7 @@
     plt.savefig("Images/precipitation_bar.png")
     plt.show()
 ```
-![prcp_bar](SurfsUp/Images/precipitation.png)
+![precipitation](SurfsUp/Images/precipitation.png)
 
 ```python
 # Print a summary statistics table for the precipitation data
@@ -193,5 +193,5 @@
     plt.savefig("Images/histogram_tobs.png")
     plt.show()
 ```
-![hist](SurfsUp/Images/histogram.png)
+![histogram](SurfsUp/Images/histogram.png)
 
